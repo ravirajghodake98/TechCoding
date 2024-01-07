@@ -1,0 +1,11 @@
+{
+  "name": "techcoding",
+  "version": "1.0.0",
+  "description": "It is a coaching institute.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TechCoding",
+  "license": "ISC"
+}
